@@ -1,5 +1,5 @@
 # SimpleShell
-A shell capable of important UNIX sys calls 
+A shell capable of important UNIX sys calls. Written in C.
 
 ## Disclaimer: 
 This code was written for ECS 150: Operating Systems. As such, I cannot
