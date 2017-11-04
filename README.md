@@ -4,7 +4,7 @@ A shell capable of important UNIX sys calls. Written in C.
 ## Disclaimer: 
 This code was written for ECS 150: Operating Systems. As such, I cannot
 freely post the source. If you would like to see the actual implementation,
-please contact me or (@cfahrney)[https://github.com/cfahrney]. 
+please contact me or [@cfahrney](https://github.com/cfahrney). 
 
 ## List of functionalities:
 1. Execute user-supplied commands with optional arguments
